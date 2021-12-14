@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreIdentity", "AspNetCoreIdentity\AspNetCoreIdentity.csproj", "{BFD659E3-A905-4360-B220-502C6BF6962E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD659E3-A905-4360-B220-502C6BF6962E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD659E3-A905-4360-B220-502C6BF6962E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD659E3-A905-4360-B220-502C6BF6962E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD659E3-A905-4360-B220-502C6BF6962E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EE9E36F-B8FB-4435-B4C3-6ECCA2AFC0CB}
+	EndGlobalSection
+EndGlobal
